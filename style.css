@@ -1,0 +1,89 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/templates/scrolling-nav)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 150px 0;
+}
+
+#aboutMe {
+  font-family: 
+  'Montserrat',
+  'Roboto',
+ 'Open Sans',
+  'Raleway',
+}
+
+header {
+  font-family: 
+  'Montserrat'!important,
+  'Roboto',
+ 'Open Sans',
+  'Raleway',
+!important}
+
+footer p{
+  font-size: 14px;
+  padding-left: 0;
+  position: relative;
+  left: 0;
+  text-align: left;
+  bottom: 
+}
+#wide{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#sass {
+  font: 16px 'Sassoon Montessori';
+  position: relative;
+  left: 20%;
+}
+
+#projects {
+  min-height: 500px;
+}
+
+#linkedIn {
+  width: 200px;
+}
+
+#visitLI{
+  border-radius: 50%;
+}
+
+ #resumeItem{
+  text-align: left;
+  float: left;
+} 
+
+#gitItem{ display: block;
+  padding: 0;
+  text-align: right;
+  margin-right: 50px;
+}
+
+#cat {
+  height: 175px;
+}
+
+#topContent {
+  text-align: center;
+}
+
+#top{
+  background: linear-gradient(to left, #BDBDBD, #7D7D7D)!important;
+}
+
+#lefty1 {
+  margin-left: 15px;
+}
+
+#lefty2{
+  margin-left: 55px ;
+}

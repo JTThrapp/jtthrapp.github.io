@@ -45,9 +45,9 @@ footer p{
   left: 20%;
 }
 
-#projects {
+/* #projects {
   min-height: 500px;
-}
+} */
 
 #linkedIn {
   width: 200px;
@@ -81,9 +81,6 @@ footer p{
 }
 
 #lefty1 {
-  margin-left: 15px;
+  margin-left: 25%;
 }
 
-#lefty2{
-  margin-left: 55px ;
-}

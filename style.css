@@ -53,10 +53,6 @@ footer p{
   width: 200px;
 }
 
-#visitLI{
-  border-radius: 50%;
-}
-
  #resumeItem{
   text-align: left;
   float: left;
@@ -77,10 +73,7 @@ footer p{
 }
 
 #top{
-  background: linear-gradient(to left, #BDBDBD, #7D7D7D)!important;
+  background: #0C6453 !important;
 }
 
-#lefty1 {
-  margin-left: 25%;
-}
 
